@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>Pentester in progress | Red Team | Web Developer | GNULinux | CTF Player On Hack The Box</h3> 
   <h4>My Hack The Box Profile</h4>
-  <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/666297">
+  <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/666297" target="_blank">
     <img src="htb_profile.png" alt="Hack The Box Profile">
   </a>
 </div>
