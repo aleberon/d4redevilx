@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1>Hell0 I'm d4redevilx</h1>
+  <h1>Hello I'm d4redevilx</h1>
 </div>
 <div align="center">
   <h3>Pentester in progress | Red Team | Web Developer | GNULinux | CTF Player On Hack The Box</h3> 
