@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h1>Hello I'm d4redevilx</h1>
 </div>
 <div align="center">
-  <h3>Pentester in progress | Red Team | Web Developer | GNULinux | CTF Player On Hack The Box</h3> 
+  <h3>Pentester in progress | Red Team | Web Developer | GNU/Linux | CTF Player On Hack The Box</h3> 
 </div>
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
